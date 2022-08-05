@@ -14,3 +14,5 @@
 
  👤 **Mr. Kwesi**
 - Github: [@theclubfoot](https://github.com/theclubfoot)
+
+![footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
