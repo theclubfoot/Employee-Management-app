@@ -1,4 +1,4 @@
-# Employee Managemnet App Project :ledger:
+# Employee Management App Project :ledger:
 
 
 <p align="center">
