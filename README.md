@@ -24,4 +24,12 @@
  * `VS Code IDE` 
  * `Create React App CLI`
  * `Boostrap 5 and Axios HTTP Library`
+
+    Server-Side :
+ * `Spring Boot 2+`
+ * `SpringData JPA (Hibernate)`
+ * `Maven 3.2+`
+ * `JDK 1.8`
+ * `Embeded Tomcat 8.5+`
+ * `MySQL Database`
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
