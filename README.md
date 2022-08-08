@@ -15,7 +15,13 @@
  👤 **Mr. Kwesi**
 - Github: [@theclubfoot](https://github.com/theclubfoot)
 
-# Tools
- * React
- * Spring Boot
+# Tool
+* Front-End :
+ * `React`
+ * `Spring Boot`
+ * `ES6`
+ * `NodeJS and NPM`
+ * `VS Code IDE` 
+ * `Create React App CLI`
+ * `Boostrap 5 and Axios HTTP Library`
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
