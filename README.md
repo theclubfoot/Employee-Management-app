@@ -15,8 +15,8 @@
  👤 **Mr. Kwesi**
 - Github: [@theclubfoot](https://github.com/theclubfoot)
 
-# Tool
-* Front-End :
+# Tools
+    Front-End :
  * `React`
  * `Spring Boot`
  * `ES6`
